@@ -1,0 +1,5 @@
+sunxi-mali (1.0git-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- WanZhiYuan <root@unknown>  Tue, 08 Jul 2014 15:17:54 +0000
